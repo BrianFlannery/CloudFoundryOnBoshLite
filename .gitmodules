@@ -1,0 +1,6 @@
+[submodule "submod/bosh-lite"]
+	path = submod/bosh-lite
+	url = git@github.com:cloudfoundry/bosh-lite.git
+[submodule "submod/cf-release"]
+	path = submod/cf-release
+	url = git@github.com:cloudfoundry/cf-release.git
